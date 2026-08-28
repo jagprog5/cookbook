@@ -1,0 +1,5 @@
+theme: minima
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
