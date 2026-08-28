@@ -1,0 +1,13 @@
+---
+---
+
+// remove footer which says "generate by github pages"
+@import "{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
