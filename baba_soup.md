@@ -1,4 +1,6 @@
-# Baba's Soup
+---
+title: Baba's Soup
+---
 
 Get 500g of chicken (thighs, legs, etc). Boil the chicken in a pot with 6 cups
 of water. Skim off and discard the foam.

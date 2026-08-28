@@ -1,4 +1,6 @@
-# Sourdough Starter
+---
+title: Sourdough Starter
+---
 
 Sourdough starter is a live component used for sourdough bread.
 

@@ -1,4 +1,7 @@
-# John's Cookbook
+---
+title: John's Cookbook
+permalink: /
+---
 
 - [Root Sourdough](./root_sourdough.md)
 - [Sourdough](./sourdough.md)

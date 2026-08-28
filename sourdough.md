@@ -1,4 +1,6 @@
-# Sourdough
+---
+title: Sourdough
+---
 
 Many guides on creating sourdough can be found online. These are good:
 

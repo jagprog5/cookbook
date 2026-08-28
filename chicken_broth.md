@@ -1,4 +1,6 @@
-# Chicken Broth
+---
+title: Chicken Broth
+---
 
 Over time, accumulate chicken or turkey bones and freeze them. e.g. leftover
 from rotisserie chicken or plain chicken.

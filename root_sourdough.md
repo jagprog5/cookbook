@@ -1,4 +1,6 @@
-# Root Sourdough
+---
+title: Root Sourdough
+---
 
 This recipe is for an old-style, firm, healthy, and nutty sourdough bread.
 

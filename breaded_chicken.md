@@ -1,4 +1,6 @@
-# Breaded Chicken
+---
+title: Breaded Chicken
+---
 
 Create the breading. Good for around 10 chicken legs, or 10 chicken thighs. Mix:
 
