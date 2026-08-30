@@ -4,8 +4,8 @@ title: Sourdough
 
 Many guides on creating sourdough can be found online. These are good:
 
-- https://youtu.be/t08iKiS4T1E
-- https://youtu.be/pyxaaUCH2OE
+- [I ruined 8 sourdough loaves [so you don’t have to] ](https://youtu.be/t08iKiS4T1E)
+- [Step by Step Beginner Sourdough Tutorial - Perfect Recipe for the total Sourdough Newbie! ](https://youtu.be/pyxaaUCH2OE)
 
 For example:
 
@@ -22,6 +22,6 @@ Repeat around 4 times as needed to build elasticity:
 - lightly stretch and fold the dough in on itself
 
 Allow the dough to rise at room temperature until it has doubled in size (4-12
-hours). Bake covered 400f for 1 hour. 
+hours). Bake covered 450f for 30 minutes. 
 
 [Remember to replenish your starter.](./starter.md#replenish)

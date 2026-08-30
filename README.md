@@ -10,3 +10,4 @@ permalink: /
 - [Chicken Broth](./chicken_broth.md)
 - [Loaded Potato](./loaded_potato.md)
 - [Baba's Soup](./baba_soup.md)
+- [French Toast](./french_toast.md)
