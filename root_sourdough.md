@@ -25,8 +25,11 @@ The final weight of this ingredient should be 200g. Add it to a mixing bowl.
 
 ## Bread Components
 
-Add 20g of sourdough starter, 50g whole wheat flour, and 40g gluten flour to the
-mixing bowl.
+Add to the mixing bowl:
+
+- 20g of sourdough starter
+- 50g whole wheat flour
+- 40g gluten flour
 
 [Remember to replenish your starter.](./starter.md#replenish)
 

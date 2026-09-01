@@ -11,3 +11,4 @@ permalink: /
 - [Loaded Potato](./loaded_potato.md)
 - [Baba's Soup](./baba_soup.md)
 - [French Toast](./french_toast.md)
+- [Baked Eggs](./baked_eggs.md)
