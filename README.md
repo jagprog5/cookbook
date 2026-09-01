@@ -12,3 +12,4 @@ permalink: /
 - [Baba's Soup](./baba_soup.md)
 - [French Toast](./french_toast.md)
 - [Baked Eggs](./baked_eggs.md)
+- [Cream Of Chicken Soup](./cream_of_chicken_soup.md)
