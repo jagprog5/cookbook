@@ -11,3 +11,12 @@ footer {
 .btn {
   display: none !important;
 }
+
+// can't see link very well in contrast to normal text
+a {
+  color: #3bb3fa;
+}
+
+a:hover {
+  color: #1d77d1;
+}

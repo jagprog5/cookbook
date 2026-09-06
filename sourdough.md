@@ -9,7 +9,7 @@ Many guides on creating sourdough can be found online. These are good:
 
 For example:
 
-- 60g starter, [must be activated](./starter.md#activate)
+- 60g [active](./starter.md#activate) starter
 - 340g water
 - 500g whole wheat flour
 - 10g salt
@@ -23,5 +23,3 @@ Repeat around 4 times as needed to build elasticity:
 
 Allow the dough to rise at room temperature until it has doubled in size (4-12
 hours). Bake covered 450f for 30 minutes. 
-
-[Remember to replenish your starter.](./starter.md#replenish)

@@ -12,4 +12,4 @@ Mix and form into 14 balls. Flatten slightly.
 
 Brown by frying in oil, around 3 minutes per side.
 
-Bake @ 400f 30 min.
+Bake at 400f 30 min.

@@ -10,4 +10,4 @@ Create the breading. Good for around 10 chicken legs, or 10 chicken thighs. Mix:
 - 20g parmesan cheese finely grated
 - (optional) butter
 
-Cover the raw chicken in the breading. Bake @ 400f 30 min.
+Cover the raw chicken in the breading. Bake at 400f 30 min.

@@ -13,3 +13,5 @@ permalink: /
 - [French Toast](./french_toast.md)
 - [Baked Eggs](./baked_eggs.md)
 - [Cream Of Chicken Soup](./cream_of_chicken_soup.md)
+- [Veggie Wrap](./veggie_wrap.md)
+- [Roasted Wet Potatoes](./roasted_wet_potatoes.md)

@@ -23,7 +23,7 @@ it into the remaining starter.
 
 ## Replenish
 
-To replenish a starter, [feed](#feed) it to replace the amount that was taken
+To replenish a starter, feed it to replace the amount that was taken
 for a recipe. Using the 1:1 ratio mentioned above. For example: if 10g of
 starter is taken, replace it by adding 5g of flour and 5g of water to the jar.
 
@@ -37,7 +37,7 @@ is the most active when the volume is at its largest.
 ## Maintain
 
 It is difficult to accidentally kill a healthy starter. If baking is halted for
-weeks, consider discarding then [replenishing](#replenish) a third of the
+weeks, consider discarding then replenish a third of the
 starter. It may also form a dark liquid layer called "hooch", which should be
 poured away.
 
