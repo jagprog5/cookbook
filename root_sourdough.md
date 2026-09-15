@@ -38,7 +38,7 @@ The final weight of this ingredient should be 200g. Add it to a mixing bowl.
 Add to the mixing bowl:
 
 - 20g of [active](./starter.md#activate) starter
-- 55g whole wheat flour
+- 50g whole wheat flour
 - 40g gluten flour
 
 ## Assorted Nuts & Seeds
@@ -58,9 +58,8 @@ sufficient to allow the ingredients to mix into a dough. Only if desperate, add
 water or cashew milk (but not almond milk) sparingly to assist with
 conglomeration.
 
-To mix, consider balling both hands into fists, and repeatedly squishing the
-dough by pressing it down into the surface of the bowl. Each squish exposes wet
-content that absorbs the ingredients.
+Consider lining your hands with a thin layer of oil to help prevent sticking
+flour.
 
 If the dough is too wet (dependent on the type of sweet potato and how it was
 prepared), add a small amount of flour until it isn't overly sticky.
@@ -90,7 +89,7 @@ Consider using the automatic start and stop time functionality found in modern
 ovens. For example, the bread can start baking over night and cool somewhat
 before breakfast.
 
-Here's a end result that used half japanese sweet potato and half normal sweet
+Here's an end result that used half japanese sweet potato and half normal sweet
 potato:
 
 ![root_sourdough](./assets/images/root_sourdough.jpg)
