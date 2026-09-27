@@ -10,7 +10,7 @@ Melt 1/4 cup of butter in a pot.
 
 Add 1/4 cup of flour. Mix and allow it to cook for a few minutes.
 
-Add one cup of [gelatinous chicken broth](./chicken_broth.md) and a half cup of
+Add 1/2 cup of [gelatinous chicken broth](./chicken_broth.md) and 1/4 cup of
 milk. Thicken as desired by keeping the broth at medium heat to evaporate water.
 
 Now that the broth is done, add as desired:

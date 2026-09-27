@@ -15,3 +15,5 @@ permalink: /
 - [Cream Of Chicken Soup](./cream_of_chicken_soup.md)
 - [Veggie Wrap](./veggie_wrap.md)
 - [Roasted Wet Potatoes](./roasted_wet_potatoes.md)
+- [Gary's Thai Coconut Chicken](./gary_thai_coconut_chicken.md)
+- [Ribs](./ribs.md)
