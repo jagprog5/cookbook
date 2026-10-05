@@ -17,3 +17,4 @@ permalink: /
 - [Roasted Wet Potatoes](./roasted_wet_potatoes.md)
 - [Gary's Thai Coconut Chicken](./gary_thai_coconut_chicken.md)
 - [Ribs](./ribs.md)
+- [Lentil Soup](./lentil_soup.md)
