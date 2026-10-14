@@ -18,3 +18,4 @@ permalink: /
 - [Gary's Thai Coconut Chicken](./gary_thai_coconut_chicken.md)
 - [Ribs](./ribs.md)
 - [Lentil Soup](./lentil_soup.md)
+- [Mushroom Soup](./mushroom_soup.md)
