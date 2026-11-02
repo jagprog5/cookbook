@@ -20,3 +20,4 @@ permalink: /
 - [Lentil Soup](./lentil_soup.md)
 - [Mushroom Soup](./mushroom_soup.md)
 - [Pea Soup](./pea_soup.md)
+- [Portobello Mushrooms](./portobello_mushrooms.md)
